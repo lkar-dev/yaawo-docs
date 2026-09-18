@@ -9,6 +9,10 @@
         {
             "url": "http:\/\/localhost:8000\/api\/v1",
             "description": "Local"
+        },
+        {
+            "url": "https:\/\/yaawo-api.onrender.com",
+            "description": "Production"
         }
     ],
     "paths": {
